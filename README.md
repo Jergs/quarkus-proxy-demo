@@ -16,6 +16,8 @@ And all the site navigation to sections of the site go through Proxy.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
+After building and running the project, go to http://localhost:8080.
+
 ## Running the application in dev mode
 
 You can run the application in dev mode using:
