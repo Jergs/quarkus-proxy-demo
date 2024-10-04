@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  quarkus-app:
+    image: quarkus-gradle-app
+    environment:
+      - REMOTE_BASE_URI=quarkus.io
+    ports:
+      - "8080:8080"
